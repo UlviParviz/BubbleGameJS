@@ -60,4 +60,4 @@ The game uses local storage to store the following data:
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/UlviParvizoghlu/BubbleGameJS.git
+git clone https://github.com/UlviParviz/BubbleGameJS.git
